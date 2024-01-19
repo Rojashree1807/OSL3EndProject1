@@ -1,0 +1,22 @@
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\bin\Debug\net6.0\PizzaLib.deps.json
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\bin\Debug\net6.0\PizzaLib.dll
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\bin\Debug\net6.0\PizzaLib.pdb
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.AssemblyInfoInputs.cache
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.AssemblyInfo.cs
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.csproj.CoreCompileInputs.cache
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.dll
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\obj\Debug\net6.0\refint\PizzaLib.dll
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.pdb
+D:\simplilearn projects - phase4\Phase end pro\PizzaLib\PizzaLib\obj\Debug\net6.0\ref\PizzaLib.dll
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\bin\Debug\net6.0\PizzaLib.deps.json
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\bin\Debug\net6.0\PizzaLib.dll
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\bin\Debug\net6.0\PizzaLib.pdb
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.AssemblyInfoInputs.cache
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.AssemblyInfo.cs
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.dll
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\obj\Debug\net6.0\refint\PizzaLib.dll
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\obj\Debug\net6.0\PizzaLib.pdb
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL3\PhaseEndPro1\PhaseEndPro1\PizzaLib\PizzaLib\obj\Debug\net6.0\ref\PizzaLib.dll
